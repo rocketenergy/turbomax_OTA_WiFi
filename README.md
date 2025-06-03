@@ -1,1 +1,3 @@
-"# turbomax_OTA_WiFi" 
+# Turbo Max OTA WiFi
+
+Latest version: v2.3.3-test.
